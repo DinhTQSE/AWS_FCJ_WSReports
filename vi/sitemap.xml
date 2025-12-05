@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/4-eventparticipated/4.1-event1/</loc>
+    <lastmod>2025-10-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/4-eventparticipated/4.1-event1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/4-eventparticipated/4.1-event1/"
+                />
+  </url><url>
     <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/3-blogstranslated/3.1-blog1/</loc>
     <lastmod>2025-09-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -28,95 +41,17 @@
                 href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/"
                 />
   </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/3-blogstranslated/3.3-blog3/</loc>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/2-proposal/2.1-background/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/3-blogstranslated/3.3-blog3/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/2-proposal/2.1-background/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/3-blogstranslated/3.3-blog3/"
-                />
-  </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/3-blogstranslated/3.4-blog4/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/3-blogstranslated/3.4-blog4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/3-blogstranslated/3.4-blog4/"
-                />
-  </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/3-blogstranslated/3.5-blog5/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/3-blogstranslated/3.5-blog5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/3-blogstranslated/3.5-blog5/"
-                />
-  </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/3-blogstranslated/3.6-blog6/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/3-blogstranslated/3.6-blog6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/3-blogstranslated/3.6-blog6/"
-                />
-  </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.4-s3-onprem/5.4.1-prepare/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/5-workshop/5.4-s3-onprem/5.4.1-prepare/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.4-s3-onprem/5.4.1-prepare/"
-                />
-  </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/4-eventparticipated/4.1-event1/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/4-eventparticipated/4.1-event1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/4-eventparticipated/4.1-event1/"
-                />
-  </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/4-eventparticipated/4.2-event2/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/4-eventparticipated/4.2-event2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/4-eventparticipated/4.2-event2/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/2-proposal/2.1-background/"
                 />
   </url><url>
     <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.1-workshop-overview/</loc>
@@ -145,19 +80,6 @@
                 href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/"
                 />
   </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.3-s3-vpc/5.3.1-create-gwe/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/5-workshop/5.3-s3-vpc/5.3.1-create-gwe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.3-s3-vpc/5.3.1-create-gwe/"
-                />
-  </url><url>
     <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.1-week1/</loc>
     <lastmod>2025-09-08T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -169,6 +91,19 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.1-week1/"
+                />
+  </url><url>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/4-eventparticipated/4.2-event2/</loc>
+    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/4-eventparticipated/4.2-event2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/4-eventparticipated/4.2-event2/"
                 />
   </url><url>
     <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.2-week2/</loc>
@@ -210,6 +145,19 @@
                 href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/2-proposal/"
                 />
   </url><url>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/old-proposal/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/old-proposal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/old-proposal/"
+                />
+  </url><url>
     <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.2-prerequiste/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -223,30 +171,30 @@
                 href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.2-prerequiste/"
                 />
   </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.3-s3-vpc/5.3.2-test-gwe/</loc>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/2-proposal/2.2-architecture/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/5-workshop/5.3-s3-vpc/5.3.2-test-gwe/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/2-proposal/2.2-architecture/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.3-s3-vpc/5.3.2-test-gwe/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/2-proposal/2.2-architecture/"
                 />
   </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.4-s3-onprem/5.4.2-create-interface-enpoint/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/4-eventparticipated/4.3-event3/</loc>
+    <lastmod>2025-11-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/5-workshop/5.4-s3-onprem/5.4.2-create-interface-enpoint/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/4-eventparticipated/4.3-event3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.4-s3-onprem/5.4.2-create-interface-enpoint/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/4-eventparticipated/4.3-event3/"
                 />
   </url><url>
     <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.3-week3/</loc>
@@ -262,6 +210,19 @@
                 href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.3-week3/"
                 />
   </url><url>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/2-proposal/2.3-activities/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/2-proposal/2.3-activities/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/2-proposal/2.3-activities/"
+                />
+  </url><url>
     <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/3-blogstranslated/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -275,30 +236,17 @@
                 href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/3-blogstranslated/"
                 />
   </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.4-s3-onprem/5.4.3-test-endpoint/</loc>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.3-iam/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/5-workshop/5.4-s3-onprem/5.4.3-test-endpoint/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/5-workshop/5.3-iam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.4-s3-onprem/5.4.3-test-endpoint/"
-                />
-  </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.3-s3-vpc/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/5-workshop/5.3-s3-vpc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.3-s3-vpc/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.3-iam/"
                 />
   </url><url>
     <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.4-week4/</loc>
@@ -327,30 +275,30 @@
                 href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/4-eventparticipated/"
                 />
   </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.4-s3-onprem/5.4.4-dns-simulation/</loc>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/2-proposal/2.4-cost/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/5-workshop/5.4-s3-onprem/5.4.4-dns-simulation/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/2-proposal/2.4-cost/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.4-s3-onprem/5.4.4-dns-simulation/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/2-proposal/2.4-cost/"
                 />
   </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.4-s3-onprem/</loc>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.4-ec2/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/5-workshop/5.4-s3-onprem/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/5-workshop/5.4-ec2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.4-s3-onprem/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.4-ec2/"
                 />
   </url><url>
     <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.5-week5/</loc>
@@ -366,17 +314,30 @@
                 href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.5-week5/"
                 />
   </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.5-policy/</loc>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.5-cloudwatch-agent/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/5-workshop/5.5-policy/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/5-workshop/5.5-cloudwatch-agent/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.5-policy/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.5-cloudwatch-agent/"
+                />
+  </url><url>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/2-proposal/2.5-team/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/2-proposal/2.5-team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/2-proposal/2.5-team/"
                 />
   </url><url>
     <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/</loc>
@@ -392,17 +353,43 @@
                 href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/"
                 />
   </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.6-cleanup/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.6-week6/</loc>
+    <lastmod>2025-10-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/5-workshop/5.6-cleanup/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/1-worklog/1.6-week6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.6-cleanup/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.6-week6/"
+                />
+  </url><url>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/2-proposal/2.6-resources/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/2-proposal/2.6-resources/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/2-proposal/2.6-resources/"
+                />
+  </url><url>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.6-cloudwatch-alarm/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/5-workshop/5.6-cloudwatch-alarm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.6-cloudwatch-alarm/"
                 />
   </url><url>
     <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/6-self-evaluation/</loc>
@@ -418,17 +405,17 @@
                 href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/6-self-evaluation/"
                 />
   </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.6-week6/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.7-week7/</loc>
+    <lastmod>2025-10-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/1-worklog/1.6-week6/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/1-worklog/1.7-week7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.6-week6/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.7-week7/"
                 />
   </url><url>
     <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/7-feedback/</loc>
@@ -444,21 +431,34 @@
                 href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/7-feedback/"
                 />
   </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.7-week7/</loc>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/2-proposal/2.7-acceptance/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/1-worklog/1.7-week7/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/2-proposal/2.7-acceptance/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.7-week7/"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/2-proposal/2.7-acceptance/"
+                />
+  </url><url>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.7-eventbridge-rule/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/5-workshop/5.7-eventbridge-rule/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.7-eventbridge-rule/"
                 />
   </url><url>
     <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.8-week8/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -470,8 +470,21 @@
                 href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.8-week8/"
                 />
   </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.9-week9/</loc>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.8-test/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/5-workshop/5.8-test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.8-test/"
+                />
+  </url><url>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.9-week9/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -483,8 +496,21 @@
                 href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.9-week9/"
                 />
   </url><url>
-    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.10-week10/</loc>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.9-clean-material/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/5-workshop/5.9-clean-material/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/5-workshop/5.9-clean-material/"
+                />
+  </url><url>
+    <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.10-week10/</loc>
+    <lastmod>2025-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -497,7 +523,7 @@
                 />
   </url><url>
     <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.11-week11/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -510,7 +536,7 @@
                 />
   </url><url>
     <loc>https://dinhtqse.github.io/AWS_FCJ_WSReports/vi/1-worklog/1.12-week12/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
